@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+h1{
+  color: blueviolet;
+  font-family: fantasy;
+  font-size: 3rem;
+}
+h2{
+  color: rgb(12, 238, 83);
+}
+button{
+  color: rgb(244, 50, 6);
+  background-color: azure;
+  border: 2px solid brown;
+  height: 30px;
+  font-family:monospace;
+}
+input{
+  height: 30px;
+  
+}
